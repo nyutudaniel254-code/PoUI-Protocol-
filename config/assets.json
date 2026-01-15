@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin"
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum"
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana"
+    },
+    {
+      "symbol": "BNB",
+      "name": "Binance Smart Chain"
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether"
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink"
+    }
+  ]
+}

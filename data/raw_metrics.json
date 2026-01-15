@@ -1,0 +1,16 @@
+{
+  "metrics": {
+    "BTC": {
+      "transactions_24h": 410000,
+      "active_wallets_24h": 980000,
+      "value_transferred_usd": 14500000000,
+      "github_commits_30d": 120
+    },
+    "ETH": {
+      "transactions_24h": 1200000,
+      "active_wallets_24h": 2100000,
+      "value_transferred_usd": 32000000000,
+      "github_commits_30d": 890
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "weights": {
+    "on_chain_activity": 0.4,
+    "value_transferred": 0.3,
+    "developer_activity": 0.3
+  }
+}
